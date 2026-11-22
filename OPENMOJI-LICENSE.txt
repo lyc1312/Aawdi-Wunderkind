@@ -1,0 +1,3 @@
+Alle Bilder in diesem Ordner: OpenMoji – das Open-Source-Emoji- und Icon-Projekt (https://openmoji.org).
+Lizenz: CC BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/).
+Änderung: Umrandung von Schwarz auf Braun (#6B4232) geändert.
